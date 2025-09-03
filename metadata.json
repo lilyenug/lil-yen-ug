@@ -1,0 +1,5 @@
+{
+  "name": "new photo studio",
+  "description": "An intuitive web application that leverages the Gemini API to perform powerful, prompt-based image editing. Users can upload a photo, describe the desired changes in natural language, and receive an AI-generated edited version of their image.",
+  "requestFramePermissions": []
+}
